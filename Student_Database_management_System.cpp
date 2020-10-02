@@ -1,9 +1,4 @@
-#include<iostream>
-#include<cstdio>
-#include<cstring>
-#include<stdlib.h>
-#include<conio.h>
-#include<iomanip>
+#include<bits/stdc++.h>
 using namespace std;
 int main()
 {
